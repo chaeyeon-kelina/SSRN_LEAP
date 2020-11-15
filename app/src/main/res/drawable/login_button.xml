@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<!--    <item android:state_pressed="true"> &lt;!&ndash;    버튼이 눌릴 경우 아래 속성을 적용시키기&ndash;&gt;-->
+<!--        <shape>-->
+<!--            <padding-->
+<!--                android:bottom="4dp"-->
+<!--                android:left="8dp"-->
+<!--                android:right="8dp"-->
+<!--                android:top="4dp" />-->
+<!--            <gradient-->
+<!--                android:angle="270"-->
+<!--                android:endColor="#cdcdcd"-->
+<!--                android:startColor="#eeeeee" />-->
+
+<!--            <corners-->
+<!--                android:bottomLeftRadius="2dp"-->
+<!--                android:bottomRightRadius="2dp"-->
+<!--                android:topLeftRadius="2dp"-->
+<!--                android:topRightRadius="2dp" />-->
+<!--        </shape>-->
+
+<!--    </item>-->
+<!--    눌리지 않을 경우 아래 속성 적용 -->
+    <item android:state_pressed="false">
+        <shape>
+            <padding
+                android:bottom="4dp"
+                android:left="8dp"
+                android:right="8dp"
+                android:top="4dp" />
+            <size android:width="248.7dp"
+                android:height="36.3dp" />
+            <solid android:color="@color/ssrn_green" />
+            <corners
+                android:radius = "21dp" />
+        </shape>
+    </item>
+</selector>
