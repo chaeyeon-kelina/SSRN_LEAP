@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <dimen name="title_text_sizes">14sp</dimen>
-    <dimen name="find_id_text_sizes">12sp</dimen>
-    <dimen name="find_id_hint_sizes">6sp</dimen>
-    <dimen name="favorite_store_name">10sp</dimen>
-
-</resources>
