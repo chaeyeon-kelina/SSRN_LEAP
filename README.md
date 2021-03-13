@@ -18,6 +18,10 @@
 
 #### 
 
+#### <u>화면 플로우 차트</u>
+
+![캡처](https://user-images.githubusercontent.com/58241963/107252825-1290d200-6a79-11eb-8261-84599b4c9d31.JPG)  
+
 #### <u>결과 화면</u>
 ![CollageMaker_20210222_001121919](https://user-images.githubusercontent.com/69005820/111032220-80506500-844e-11eb-9ba4-ae376d6a312f.jpg)
 ![CollageMaker_20210222_001820999](https://user-images.githubusercontent.com/69005820/111032234-92320800-844e-11eb-98c1-f5a4290a3909.jpg)
