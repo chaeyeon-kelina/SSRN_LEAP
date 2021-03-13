@@ -18,9 +18,11 @@
 
 #### 
 
-#### <u>화면 플로우 차트</u>
-
-![캡처](https://user-images.githubusercontent.com/58241963/107252825-1290d200-6a79-11eb-8261-84599b4c9d31.JPG)  
-
-
-
+#### <u>결과 화면</u>
+![CollageMaker_20210222_001121919](https://user-images.githubusercontent.com/69005820/111032220-80506500-844e-11eb-9ba4-ae376d6a312f.jpg)
+![CollageMaker_20210222_001820999](https://user-images.githubusercontent.com/69005820/111032234-92320800-844e-11eb-98c1-f5a4290a3909.jpg)
+![CollageMaker_20210222_003913852](https://user-images.githubusercontent.com/69005820/111032239-94946200-844e-11eb-81a7-1d034eb61ad2.jpg)
+![CollageMaker_20210222_001847250](https://user-images.githubusercontent.com/69005820/111032235-92ca9e80-844e-11eb-8339-431fdecff94b.jpg)
+![CollageMaker_20210222_001655639](https://user-images.githubusercontent.com/69005820/111032232-90684480-844e-11eb-88b5-25d818b45d93.jpg)
+![CollageMaker_20210222_001930268](https://user-images.githubusercontent.com/69005820/111032236-93633500-844e-11eb-9d1e-30e7cb6dadff.jpg)
+![CollageMaker_20210222_001956908](https://user-images.githubusercontent.com/69005820/111032238-93fbcb80-844e-11eb-99ef-1a54f2b40a48.jpg)
